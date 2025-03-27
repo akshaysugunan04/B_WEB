@@ -1,0 +1,18 @@
+.top{
+    border: solid ;
+    border-radius: 0.75cm;
+    border-color: red;
+    padding-left: 10%;
+    padding-right: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.bottom{
+    border: solid;
+    border-color: red;
+    padding-left: 10%;
+    padding-right: 50%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 1.25cm 0.5cm;
+}
