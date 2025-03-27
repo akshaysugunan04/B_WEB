@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    float: left;
+    margin: 5px;
+}
+
+.empty {
+    height: 100px;
+    width: 100px;
+    border: solid 1px white;
+    float: left;
+    margin: 5px;
+}
+
+div {
+    width: 500px;
+}

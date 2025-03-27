@@ -1,0 +1,28 @@
+.border {
+    width: 550px;
+    height: 50px;
+    border: solid 1px black;
+    margin: 20px;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+body {
+    margin: 50px;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 1px black;
+    background-color: rgb(237, 237, 237);
+}
