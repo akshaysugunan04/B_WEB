@@ -1,0 +1,71 @@
+.logo-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.social-icons {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.social-icons img {
+    width: 40px;
+    height: 40px;
+}
+.separator {
+    width: 2px;
+    height: 40px;
+    background-color: #666;
+}
+.logo-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+.navbar-brand img {
+    height: 50px;
+}
+.c1{
+    display: flex;
+    justify-content: center;
+}
+.c2{
+    display: flex;
+    justify-content: center;
+}
+.c3{
+    display: flex;
+    justify-content: center;
+}
+.c5{
+    height: 100px;
+    margin-bottom: 20px;
+}
+.navbar-custom {
+    background: lightblue;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    }
+        /* Prevent content from being hidden under navbar */
+    body {
+         padding-top: 80px;
+    }
+.carousel img{
+    height:300px;
+}
+body{
+    padding-top: 35;
+}
+.carousel{
+padding-top: 4cm;
+}
+/* .carousel-item {
+    display: block !important;
+}
+.carousel {
+    position: relative;
+    z-index: 10;
+} */
